@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: monospace;
+}
+
+fieldset {
+	margin: 20px;
+	padding: 10px;
+}
+
+legend {
+	background-color: yellow;
+	border: 2px ridge gray;
+	padding: 2px 10px;
+}
